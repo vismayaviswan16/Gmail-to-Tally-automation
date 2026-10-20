@@ -1,0 +1,21 @@
+# Secrets and local config
+.env
+*.env
+credentials*.json
+*.key
+*.pem
+
+# n8n exports that may contain real data or credential IDs
+*.backup.json
+*-private.json
+
+# Temp files used by the OCR path
+n8n-temp/
+*.png
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
