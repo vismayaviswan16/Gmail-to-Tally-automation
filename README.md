@@ -149,7 +149,7 @@ This software is provided **as is**, without warranty of any kind. It uses LLM-b
 
 ## License
 
-Released under the MIT License. Add a `LICENSE` file with your name and the year, or replace this section with your preferred license.
+Released under the MIT License. 
 
 ---
 
